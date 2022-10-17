@@ -56,12 +56,6 @@
 	font-style: italic;
 }
 
-.index-text{
-	h3,p,ul,li{
-	position:relative; left:20px;
-	text-align:justify;
-	padding:0px 10px;
-}}
 
 .index-contact{
   vertical-align:top;
