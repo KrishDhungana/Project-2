@@ -52,13 +52,9 @@
 	text-decoration: underline;
 }
 
-.index-text{
-	h4{
-	position:relative; left:20px;
-	text-align:justify;
-	padding:0px 10px;
+.index-date{
 	font-style: italic;
-}}
+}
 
 .index-text{
 	h3,p,ul,li{
