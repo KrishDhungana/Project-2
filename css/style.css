@@ -52,20 +52,20 @@
 	text-decoration: underline;
 }
 
-.index-text
+.index-text{
 	h4{
 	position:relative; left:20px;
 	text-align:justify;
 	padding:0px 10px;
 	font-style: italic;
-}
+}}
 
-.index-text
+.index-text{
 	h3,p,ul,li{
 	position:relative; left:20px;
 	text-align:justify;
 	padding:0px 10px;
-}
+}}
 
 .index-contact{
   vertical-align:top;
@@ -167,6 +167,7 @@ text-align: center;
   list-style-type: none;
   margin: 0;
   padding: 0;
+  text-align:center;
 }
 
 .life-body{
