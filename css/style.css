@@ -32,7 +32,7 @@
 
 /* Resume.html code */
 .index-body{
-  font-family: Merriweather,Arial;
+  font-family: "Trirong", serif;
   padding:1px 20px;
   background-color:#f1f1f1;
 }
@@ -96,7 +96,7 @@ text-align: center;
   padding: 20px;
   margin-top: 5px;
   text-align: justify;
-  font-family: Merriweather;
+  font-family: "Trirong", serif;
 }
 
 .row:after {
@@ -113,7 +113,7 @@ text-align: center;
 
 /*Biography.html code */
 .bio {
-  font-family: Merriweather, Arial;
+  font-family: "Trirong", serif;
   padding: 0.5em;
   background: #f1f1f1;
 }
@@ -160,7 +160,7 @@ text-align: center;
 }
 
 .life-body{
-  font-family:Merriweather, Arial;
+  font-family: "Trirong", serif;
   line-height:1.5em;
   font-size:1em;
 }
