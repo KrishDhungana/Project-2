@@ -62,7 +62,8 @@
 }
 
 .center{
-text-align: center;  
+  text-align: center; 
+  word-spacing: 10px; 
 }
 
 /* About.html Code  */
